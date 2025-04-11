@@ -1,0 +1,2 @@
+# PICRUSt
+Installation for Mac
