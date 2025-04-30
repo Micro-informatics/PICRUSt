@@ -1,6 +1,6 @@
 # PICRUSt installation - For Mac (M1/M2)
 
-> During isntallation, a common issue on Apple Silicon (M1/M2) systems due to missing dependencies like epa-ng, which isn’t available for osx-arm64.
+> During isntallation, a common issue on Apple Silicon (M1/M2) systems due to missing dependencies like epa-ng, which isn’t available for osx-arm64, causes trouble.
 We can bypass this easily by creating a conda environment using the Intel (x86_64) platform via Rosetta 2, which allows you to install and run software made for Intel Macs. <br>
 
 ✅ **Solution: Create an Intel-based PICRUSt2 environment using osx-64**
